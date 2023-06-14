@@ -1,0 +1,24 @@
+.box{
+    color: brown;
+    font-size:25px ;
+    text-align: center;
+    text-shadow: 4px 4px 0 rgba(0,0,0,0.1);
+    padding: 5px;
+}
+
+.box1{background-color: rgb(174, 0, 255);}
+.box2{background-color: antiquewhite;}
+.box3{background-color: rgba(240, 255, 254, 0.39);}
+.box4{background-color: bisque;}
+.box5{background-color: rgb(62, 151, 108);}
+.box6{background-color: burlywood;}
+.box7{background-color: rgba(159, 171, 73, 0.53);}
+.box8{background-color: tomato;}
+.box9{background-color: violet;}
+.box10{background-color: springgreen;}
+
+.container{
+    display: flex;
+    border: 10px solid rgb(128, 109, 61);
+    height: 100pc;
+}
